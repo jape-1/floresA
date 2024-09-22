@@ -44,7 +44,7 @@ body {
 .titulo {
   margin-bottom: 42%;
   font-family: "Blinker", sans-serif;
-  color: rgb(79, 244, 61);
+  color: rgb(120, 244, 114);
   position: absolute;
   font-weight: bold;
   letter-spacing: 10px;
@@ -78,7 +78,7 @@ body {
     radial-gradient(
       ellipse at bottom,
       var(--dark-color),
-      rgba(145, 233, 255, 0.2)
+      rgba(213, 241, 102, 0.997)
     ),
     repeating-linear-gradient(
       220deg,
